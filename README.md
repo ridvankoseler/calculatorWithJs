@@ -2,7 +2,7 @@
 
 # 👉 Learn-Javascript-DOM  👈
 
-####  🏹 This project is for beginners trying to learn Javascript DOM(Document Object Model).
+####  ✔ This project is for beginners trying to learn Javascript DOM(Document Object Model) 🪁.
 
 <hr>
 
